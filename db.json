@@ -3,35 +3,35 @@
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":1,
-      "Praca":"Sinop",
+      "Praca":"Sinop"
      
    },
    {
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":1,
-      "Praca":"Sinop",
+      "Praca":"Sinop"
     
    },
    {
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":3,
-      "Praca":"Nova America do Norte",
+      "Praca":"Nova America do Norte"
     
    },
    {
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":3,
-      "Praca":"Nova America do Norte",
+      "Praca":"Nova America do Norte"
     
    },
    {
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":2,
-      "Praca":"Aldeia Caibai",
+      "Praca":"Aldeia Caibai"
 
    }
 ]

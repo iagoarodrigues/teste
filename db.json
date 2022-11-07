@@ -4,34 +4,34 @@
       "Concessao":"NorteSul",
       "IdPraca":1,
       "Praca":"Sinop",
-      "IdPista":1
+     
    },
    {
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":1,
       "Praca":"Sinop",
-      "IdPista":2
+    
    },
    {
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":3,
       "Praca":"Nova America do Norte",
-      "IdPista":4
+    
    },
    {
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":3,
       "Praca":"Nova America do Norte",
-      "IdPista":5
+    
    },
    {
       "IdConcessao":1,
       "Concessao":"NorteSul",
       "IdPraca":2,
       "Praca":"Aldeia Caibai",
-      "IdPista":8
+
    }
 ]

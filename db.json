@@ -33,26 +33,5 @@
       "IdPraca":2,
       "Praca":"Aldeia Caibai",
       "IdPista":8
-   },
-   {
-      "IdConcessao":1,
-      "Concessao":"NorteSul",
-      "IdPraca":2,
-      "Praca":"Aldeia Caibai",
-      "IdPista":10
-   },
-   {
-      "IdConcessao":1,
-      "Concessao":"NorteSul",
-      "IdPraca":4,
-      "Praca":"Rio Teles Pires",
-      "IdPista":11
-   },
-   {
-      "IdConcessao":1,
-      "Concessao":"NorteSul",
-      "IdPraca":4,
-      "Praca":"Rio Teles Pires",
-      "IdPista":12
    }
 ]
